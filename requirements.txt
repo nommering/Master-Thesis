@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+fastdtw
+scipy
+scikit-learn
+tqdm
+pyNetLogo
+openpyxl

@@ -1,0 +1,6 @@
+Error;neighbourhood_effect;word_of_mouth;tenants_can_install;historic_houses_can_install_PV;sensitivity_analysis;households;number_of_neighbours;stimulate_social_interaction;subsidy_PV;PV_net_bill_after_adoption;learning_rate_life_cycle_ghg_PV;PV_self_sufficiency_potential_global;information_campaign_PV_year
+618055;FALSE;FALSE;TRUE;TRUE;FALSE;8001;10;0;0.5;0;0.5;0.5;2014
+622488;FALSE;TRUE;TRUE;TRUE;FALSE;8001;10;0.5;0.5;500;0.5;0;2014
+619056;FALSE;TRUE;FALSE;FALSE;FALSE;8001;10;0.5;0.5;500;0.5;0.5;2022
+620057;FALSE;TRUE;TRUE;FALSE;FALSE;8001;10;0;0.5;500;0;0;2019
+620486;TRUE;FALSE;FALSE;TRUE;FALSE;8001;10;0;0;0;0;0.5;2013
