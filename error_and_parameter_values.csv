@@ -1,2 +1,0 @@
-Error,Visibility,Sparking_Events,Uncertainty,Info_Costs,Info_Costs_Revenue,Info_Costs_Income,Information_Threshold,InputRandomSeed,initial_pv_share,interest_rate,pv_SDE_premium,close_links,random_links,weight_eco,weight_env,weight_soc,influence_cost_time,information_threshold_value
-822.86013986014,False,False,False,False,False,True,True,10,0.08,0.04,0.05,0,0.0,0.8,0.8,0.4,0.8,0.0
